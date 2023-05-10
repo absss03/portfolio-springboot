@@ -1,8 +1,7 @@
 package com.portfolio.abi.service;
 
-
 import com.portfolio.abi.entity.Formacion;
-import com.portfolio.abi.ropository.RFormacion;
+import com.portfolio.abi.repository.RFormacion;
 import jakarta.transaction.Transactional;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

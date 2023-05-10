@@ -1,6 +1,5 @@
 package com.portfolio.abi.controller;
 
-
 import com.portfolio.abi.entity.Proyecto;
 import com.portfolio.abi.service.SProyecto;
 import java.util.List;

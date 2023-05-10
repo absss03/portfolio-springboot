@@ -1,7 +1,5 @@
 package com.portfolio.abi.controller;
 
-
-
 import com.portfolio.abi.entity.Habilidad;
 import com.portfolio.abi.service.SHabilidad;
 import java.util.List;

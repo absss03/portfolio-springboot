@@ -1,4 +1,4 @@
-package com.portfolio.abi.ropository;
+package com.portfolio.abi.repository;
 
 import com.portfolio.abi.entity.Proyecto;
 import org.springframework.data.jpa.repository.JpaRepository;
